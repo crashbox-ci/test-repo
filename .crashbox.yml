@@ -1,0 +1,5 @@
+
+pipeline:
+  - task: test
+    commands:
+      - echo "hello world"
